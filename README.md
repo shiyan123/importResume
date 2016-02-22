@@ -1,8 +1,4 @@
-1.
-	python 2.7 
-2.
-	flask api
-3.
-	pyquery
-4.
-	mongo
+### 主语言选择
+ python
+### api框架选择
+ flask
